@@ -15,7 +15,7 @@ ul {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 10px;
     text-decoration: none;
   }
   
@@ -56,3 +56,39 @@ ul {
     color: #000000;
     
   }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 10px;
+    margin-bottom: 30%;
+  }
+  .side-1{
+      margin-top: 150px;
+      margin-left: 5%;
+  }
+  .side-2{
+    margin-top: 150px;
+    margin-right: 35
+    %;
+}
+  .container{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  
