@@ -6,12 +6,12 @@
 ## Known Bugs
 {There are issues that have not yet been resolved on the website blog with my sliding banners but i'll appreciate the help.Outline any issues that would impact use this blog. }
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{Languages and tools you used to create this site.}
 **HTML
 **CSS
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{It was my first website to build with HTML and CSS so it was a bit challenging for me I know it has alot of issues tha need to be resolved but we can work on it together. I'll appreciate the help if you don't mind.Reach ot to me at daniel.karigi@student.moringaschool.com}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
 Copyright (c) {year} **{List of contributors or company name}**
   
