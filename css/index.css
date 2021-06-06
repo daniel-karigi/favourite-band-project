@@ -77,18 +77,31 @@ ul {
     padding: 10px;
     margin-bottom: 30%;
   }
-  .side-1{
-      margin-top: 150px;
-      margin-left: 5%;
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
   }
-  .side-2{
-    margin-top: 150px;
-    margin-right: 35
-    %;
-}
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+    
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
   .container{
-    display: flex;
-    justify-content: space-around;
+      margin-top: 8em;
+      justify-content: space-between;
+      flex-direction: row-reverse;
   }
 
   
